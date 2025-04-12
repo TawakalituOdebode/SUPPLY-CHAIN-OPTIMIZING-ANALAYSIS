@@ -40,6 +40,7 @@ Stockout Risk = If Stock Levels < (Number of products sold * 0.2), then "High St
 •	 Dimension Tables (contains descriptive info like product details, suppliers, and locations)
 
 # Data Model Schema
+![DATA MODEL SCHEMA](https://github.com/user-attachments/assets/971a373f-d239-44bd-ac63-cc383dc76e34)
 
 
 ## KEY INSIGHTS AND RECOMMENDATIONS:
