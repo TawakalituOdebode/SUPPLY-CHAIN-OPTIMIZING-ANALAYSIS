@@ -41,4 +41,58 @@ Stockout Risk = If Stock Levels < (Number of products sold * 0.2), then "High St
 
 # Data Model Schema
 
+## KEY INSIGHTS AND RECOMMENDATIONS:
+
+**INSIGHTS**
+
+**SALES AND REVENUE**
+
+-Total revenue of $578k indicates high sales performance, with a total cost of $58k, comparatively lower to the revenue generated, suggesting good profitability.
+
+-The skincare product type has the highest contribution of 40%, with $241.63k, followed by haircare's 30% and cosmetics' 28%.
+
+-The unknown customer demographic segments lead in revenue generation.
+
+-Products with SKU 8,2,31,32, and 38 are top 5 revenue contributors.
+
+-Stock level of 4,777 suggest sufficient stock availability.
+
+**SUPPLIER AND LOGISTICS PERFORMANCE**
+
+-Supplier 4 and Supplier 1 are the most reliable with the lowest lead times. Also, Supplier 3 has the highest lead times, highlighting potential inefficiencies.
+
+-Carrier B has the highest defect rates, suggesting potential issues with handling or logistics.
+
+-Sea transport is the most cost-effective judging from the low shipping cost incurred.
+
+-Most suppliers have passed inspections, with a few pending or failing, emphasizing a need for quality control for certain suppliers.
+
+-Haircare have the highest defect rate, followed by skincare, which suggests potential quality or manufacturing issues in these categories.
+
+
+**INVENTORY AND STOCK MANAGEMENT**
+
+-Skincare has the highrst order quantities but a relatively lower stock level was recorded, indicating understock.
+
+-Supplier 2 has the highest production volume but lower product sold, suggesting potential overproduction or sales inefficiencies. However, Supplier 5 shows better alignment between production and sales.
+
+### RECOMMENDATIONS
+
+-Supplier Management: Focus on improving lead times for Supplier 3. Address quality control issues with Carrier B and prioritize inspections for suppliers with pending/failing results.
+  
+-Inventory Optimization: increase stock levels for understocked products like skincare.
+
+-Shipping Optimization: Review the use of Carrier B and prioritize cost-effective transportation modes like sea transport.
+ 
+-Defect Rate Reduction: Investigate high defect rates in haircare and skincare and implement quality assurance measures.
+
+-Revenue and Sales Improvement: Products with more sales should always be in stock to boost revenue. Locations with lower sales and revenue may require localized marketing or distribution strategies.
+
+
+
+
+
+
+
+
 
