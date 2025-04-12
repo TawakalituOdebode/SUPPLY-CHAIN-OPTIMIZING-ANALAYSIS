@@ -42,6 +42,16 @@ Stockout Risk = If Stock Levels < (Number of products sold * 0.2), then "High St
 # Data Model Schema
 ![DATA MODEL SCHEMA](https://github.com/user-attachments/assets/971a373f-d239-44bd-ac63-cc383dc76e34)
 
+## DASHBOARD: 
+![Dashboard 1](https://github.com/user-attachments/assets/1cc823ac-ebb5-4f7d-ac88-5d2ddbf8fd28)
+
+![Dashboard 2](https://github.com/user-attachments/assets/eb44a216-13b0-42dc-94de-5b91419e6fdf)
+
+![Dashboard 3](https://github.com/user-attachments/assets/d8aab096-c44f-4e2a-ba68-40c084be555b)
+
+
+
+
 
 ## KEY INSIGHTS AND RECOMMENDATIONS:
 
